@@ -77,12 +77,14 @@ MLOps engineer with **7 years in software engineering** and **3+ years shipping 
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramnarayan3015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramnarayan3015&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+| | |
+|--|--|
+| **Building** | GenAI RAG pipelines & multi-region ML infra @ Clio |
+| **Learning** | Databricks Generative AI Engineer certification |
+| **Interests** | LLM evaluation, agentic systems, ML cost optimization |
+| **Open to** | Collaborating on GenAI / MLOps open-source projects |
 
 ---
 
