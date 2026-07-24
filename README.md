@@ -7,7 +7,7 @@
   <a href="https://ramnarayan3015.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ramnarayan-v-ai-ml-mlops-engineer">
+  <a href="https://linkedin.com/in/ramnarayanv-ai-ml-mlops-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:srnath96@gmail.com">
@@ -26,7 +26,7 @@ MLOps engineer with **7 years in software engineering** and **3+ years shipping 
 - 🔭 Building **RAG pipelines, multi-region data planes & observability infra** @ Clio
 - ⚡ Reduced cloud costs by **50%** · Accelerated ML deployments by **40%**
 - 🌍 **Markham, Ontario, Canada** 🍁
-- 🎓 MS Computer Science — Liverpool John Moores University *(Distinction)*
+- 🎓 MS Computer Science — Liverpool John Moores University *(Distinction)* · PGD Cloud Computing — IIIT Bangalore *(3.72/4.0)*
 - 📜 AWS Solutions Architect Associate · Databricks Generative AI Engineer *(in progress)*
 
 ---
