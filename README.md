@@ -21,7 +21,7 @@
 
 ### 🧠 About Me
 
-MLOps engineer with **8 years in software engineering** and shipping production ML systems**. Currently at [Clio](https://www.clio.com) — the world's leading legal tech platform — building the GenAI infrastructure behind AI features used by 150,000+ legal professionals.
+MLOps engineer with **8 years in software engineering and shipping production ML systems**. Currently at [Clio](https://www.clio.com) — the world's leading legal tech platform — building the GenAI infrastructure behind AI features used by 150,000+ legal professionals.
 
 - 🔭 Building **RAG pipelines, multi-region data planes & observability infra** @ Clio
 - ⚡ Reduced cloud costs by **50%** · Accelerated ML deployments by **40%**
